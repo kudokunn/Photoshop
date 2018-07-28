@@ -2,7 +2,7 @@
 
 anh4.
 
-# Hoàn cảnh: Tóc cực rối cần chọn chi tiết nhất các chi tiết tóc để gán một màu nền khác => ÁP dụng cho việc làm ảnh chứng minh thư :)
+#### Hoàn cảnh: Tóc cực rối cần chọn chi tiết nhất các chi tiết tóc để gán một màu nền khác => ÁP dụng cho việc làm ảnh chứng minh thư :)
 
 # Thực hiện: 
 
