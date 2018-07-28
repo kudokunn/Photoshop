@@ -34,6 +34,13 @@ B3: Chọn Add vector mask trong mục Layer
 
 B4: Chọn B (Brush) và chọn màu đen (phải là 2 màu đen trắng) và tô phần mắt, môi.
 
+### Khi vùng mặt có chỗ khác màu như toàn bộ khuôn mặt màu trắng nhưng 2 bên má đỏ hồng cần để cho má trắng dùng công cụ Curver
+
+B1: Chọn vùng má đỏ
+
+B2: Chọn Công cụ Curvert tại phần Adjustment Layer
+
+B3: Chỉnh cho hợp
 
 
 
