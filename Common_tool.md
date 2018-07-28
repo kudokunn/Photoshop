@@ -6,9 +6,9 @@
 
 3. Lasso Tool: Chọn vật thể theo ý mình. DÙNG NHIỀU
 
-4.1:  Qick Select Tool: Máy tự động chọn chi tiết theo hình ảnh.
+4.1:  Quick Select Tool: Máy tự động chọn chi tiết theo kích thước đối tượng trong hình anh hình ảnh.
 
-4.2: Magic Wand Tool: Máy tự động chọn chi tiết theo hình ảnh hơn nhưng cần giữ phím Shift
+4.2: Magic Wand Tool: Máy tự động chọn chi tiết theo bên ngoài đối tượng
 
 Note: Bấm Shift để chọn thêm, bấm phím Alt để loại bỏ bức ảnh. Ctrl + D để thoát vùng chọn: => Áp dụng lấy chi tiết hơn cái 4.1
 => Nếu kết hợp các công cụ chọn với công cụ MOVE thì nó di chuyển bức ảnh chọn mà không giữ lại ảnh gốc => Áp dụng thay đầu người :)
