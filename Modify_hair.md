@@ -1,6 +1,6 @@
 # Mô hình:
 
-anh4.
+![](/image/anh4.jpg)
 
 #### Hoàn cảnh: Tóc cực rối cần chọn chi tiết nhất các chi tiết tóc để gán một màu nền khác => ÁP dụng cho việc làm ảnh chứng minh thư :)
 
@@ -19,7 +19,8 @@ B4: Tạo Layer 2: Crtl + Alt + Shift + N. và chọn Màu cho Layer 2 là: Màu
 
 Note: Bản chất, từ ảnh Background chọn các đối tượng trong ảnh và tạo các Layer riêng cho từng đối tượng và ghép từng phần của các layer với nhau tạo nên một bức ảnh chỉnh sửa mong muốn. Đây là cách làm việc với Layer. 
 
-Ảnh 5
+![](/image/anh5.png)
+
 
 # Đổi màu tóc:
 
