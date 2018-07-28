@@ -1,8 +1,10 @@
-Mô hình:
-anh4.
-Hoàn cảnh: Tóc cực rối cần chọn chi tiết nhất các chi tiết tóc để gán một màu nền khác => ÁP dụng cho việc làm ảnh chứng minh thư :)
+# Mô hình:
 
-Thực hiện: 
+anh4.
+
+# Hoàn cảnh: Tóc cực rối cần chọn chi tiết nhất các chi tiết tóc để gán một màu nền khác => ÁP dụng cho việc làm ảnh chứng minh thư :)
+
+# Thực hiện: 
 
 #### Chú ý: Đảo ngược vùng chọn khi sử dụng các công cụ chọn đối tượng trong ảnh: Crtl + Shift + I. 
 #### Tạo Layer 1: Crtl + J. Tạo Layer 2: Crtl + Alt + Shift + N
@@ -25,3 +27,4 @@ B1: Chọn vùng tóc bằng công cụ lựa chọn đối tượng
 
 B2: Trên thanh Menu => New FIll Layer => Solid Color => Mode chọn Overlay => OK chọn màu tùy thích.
 (Vẫn là chọn được đối tượng xong thích chỉnh gì thì chỉnh.)
+
