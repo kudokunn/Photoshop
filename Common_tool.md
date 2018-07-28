@@ -13,7 +13,7 @@ Bộ công cụ chỉnh sửa ảnh:
 
 1.1: Spot Healing Brush Tool (Công cụ chữa vết đốm): Hòa màu của vùng chon bằng màu của gần vùng chọn nhất 
 => Áp dụng chỉnh sửa mụn mặt, nám ...
-=> Áp dụng xóa người, vật khác trong ảnh 
+=> Áp dụng xóa người, vật khác trong ảnh. Không thông dụng
 ..
 
 1.2: Healing Brush Tool: Khác với 1.1, ta sẽ chọn mảng màu trong ảnh bằng bấm phím Alt và tô lên vùng chọn cần xóa. 
@@ -23,4 +23,16 @@ Bộ công cụ chỉnh sửa ảnh:
 - Vẽ màu theo màu đã chọn: 
 - Kết hợp với Mask để tẩy bỏ vùng mặt nạ để lấy lại vùng ban đầu. Mặt nạ coi như là một sự chỉnh sửa khác đè lên ảnh ban đầu và dùng Brush để xóa mặt nạ lấy ảnh ban đầu. Ứng dụng như làm mờ khuôn mặt thì mờ luôn mắt, vậy dùng Brush xóa mờ chỗ măt để lấy lại vùng mắt ban đầu.
 
+3. Clone Stamp Tool: (Công cụ đóng dấu sao chép): Loại bỏ chi tiết thừa trong ảnh, xóa người, vật 
+4. Earse Tool: ít dùng
+5. Gradient: ít dùng: 
+6. Blur Tool:
+7. Dogde Tool: 
 
+Bộ công cụ khác: 
+
+Pen Tool: Dùng nhiều nhưng chưa biết dùng
+Text Tool: Viết nội dung 
+Rectangle Tool: Dùng cho Web
+Hand Tool: Di chuyển ảnh
+Zoom Tool: Phóng to, thu nhỏ
