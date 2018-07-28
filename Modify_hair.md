@@ -19,7 +19,7 @@ B4: Tạo Layer 2: Crtl + Alt + Shift + N. và chọn Màu cho Layer 2 là: Màu
 
 Note: Bản chất, từ ảnh Background chọn các đối tượng trong ảnh và tạo các Layer riêng cho từng đối tượng và ghép từng phần của các layer với nhau tạo nên một bức ảnh chỉnh sửa mong muốn. Đây là cách làm việc với Layer. 
 
-![](/image/anh5.png)
+![](/image/anh55.png)
 
 
 # Đổi màu tóc:
