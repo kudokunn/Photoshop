@@ -1,0 +1,3 @@
+### Tất cả đều sử dụng công cụ Lyqify => Chọn Forward Warp Temp default để chỉnh
+
+### Sử dụng thêm công cụ thêm màu vào ảnh như thêm vào môi, mắt ...
