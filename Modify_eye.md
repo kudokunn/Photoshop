@@ -1,6 +1,6 @@
-Mô hình: 
+## Ảnh gốc 
 
-anh1
+![](/image/Bai8_mat.jpg)
 
 ## Mục tiêu: Chỉnh mắt to hơn, và tô màu mắt. 
 
@@ -24,4 +24,4 @@ NOTE: Nên kết hợp các công cụ đi kèm trong Lyquify: như Pucker Tool 
 
 Kết quả: 
 
-anh2. 
+![](/image/bai8_mat.png). 
