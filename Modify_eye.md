@@ -25,3 +25,11 @@ NOTE: Nên kết hợp các công cụ đi kèm trong Lyquify: như Pucker Tool 
 Kết quả: 
 
 ![](/image/bai8_mat.png). 
+
+## Tạo vùng lông tóc cho râu, lông mày, tóc
+
+Sử dụng công cụ Clone Stamp Tool (Công cụ sao chép đối tượng, chọn một đối tường bằng Alt + Click và sao chép đối tượng đó sang chỗ khác) => Bấm Atl + Click chuôt trái chọn vùng lông đó => Chọn vùng lông dày nhất và chỉnh sửa hợp lý.
+
+Thủ thuật: Mỗi khi làm xong một vùng thì nó về trạng thái ban đầu nên cần chọn lại Alt + Chuột trái đề chọn lại ảnh ban đầu
+
+![](/image/Bai8_longmay.jpg)
